@@ -71,12 +71,6 @@ In this section, searching algorithms are used to find specific elements within 
      - Best-case: O(1)
      - Average-case: O(n)
 
-3. **Rabin-Karp**
-   - **Description:** A string-searching algorithm that uses hashing to find a pattern in a text.
-   - **Time Complexity:**
-     - Worst-case: O(n * m)
-     - Best-case: O(n + m)
-
 ---
 
 ### Graph Algorithms
@@ -120,6 +114,12 @@ These algorithms are used to search for patterns in strings.
    - **Time Complexity:**
      - Worst-case: O(n + m), where n is the length of the text and m is the length of the pattern.
 
+
+2. **Rabin-Karp**
+   - **Description:** A string-searching algorithm that uses hashing to find a pattern in a text.
+   - **Time Complexity:**
+     - Worst-case: O(n * m)
+     - Best-case: O(n + m)
 ---
 
 ## How to Run the Program
